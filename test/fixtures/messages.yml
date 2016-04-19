@@ -2,8 +2,10 @@
 
 one:
   name: MyString
+  age:  MyInteger
   body: MyString
 
 two:
   name: MyString
+  age:  MyInteger
   body: MyString
